@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Paweł 👋
   - I love programming, math and machine learning.
   - I am comfortable with Javascript, C#, C/C++
   - I am currently learning Java and SQL
