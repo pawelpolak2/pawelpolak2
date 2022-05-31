@@ -1,5 +1,13 @@
 ### Hi there 👋
+  - I love programming, math and machine learning.
+  - I am comfortable with Javascript, C#, C/C++
+  - I am currently learning Java and SQL
+  - You can reach me at:
+    - email: pawel.ulic2@gmail.com
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulachop)](https://github.com/anuraghazra/github-readme-stats)
 
+*EJS is basically HTML
 <!--
 **hulachop/hulachop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
